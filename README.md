@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohzcrea8me
 - 👀 I’m interested in Web and blockchain Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on smart contract projects, Dapps and lots more
 - 📫 How to reach me email:mohzcrea8me@gmail.com twitter:@mkbthestallion
 
 <!---
