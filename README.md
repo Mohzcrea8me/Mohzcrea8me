@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohzcrea8me
 - 👀 I’m interested in Web and blockchain Development
-- 💞️ I’m looking to collaborate on smart contract projects, Dapps and lots more
+- 💞️ I’m looking to collaborate on Defi, GameFi, SocialFi, Smart contracts and lots more
 - 📫 How to reach me email:mohzcrea8me@gmail.com
 
 <!---
